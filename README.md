@@ -22,10 +22,9 @@ A simple CLI-based productivity tracking app built in a single Java file using O
 ## Contributors
 
 1. Adithya V (23)
-2. Sarthak Jha (24)
-3. Tanmay Negi (22)
-4. Harshit Kaushik (khud add kro)
-5. Rohan Bhandari (khud add kro)
+2. Tanmay Negi (22)
+3. Harshit Kaushik (17)
+4. Rohan Bhandari (28)
 
 
 ## 🗄️ PostgreSQL Setup
